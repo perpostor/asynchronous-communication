@@ -101,7 +101,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 
 * * *
 
-<!--In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down.)
+<!--In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down. -->
 
 <dl>
 <dt>Writing things down makes the implicit explicit </dt>
