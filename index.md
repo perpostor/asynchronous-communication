@@ -105,11 +105,11 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 
 <dl>
 <dt>Writing things down makes the implicit explicit </dt>
-<dd>Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.</dd>
+<dd>Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brought out in the open.</dd>
 <!-- If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on!  -->
 
 <dt>It is a great unblocker</dt>
-<dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, knowledge is transparent and owned by everyone</dd>
+<dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, knowledge is transparent and owned by everyone.</dd>
 
 <dt>Your future self will thank you &#128591;</dt>
 <dd>We forget things all the time - look up, don't relearn!</dd>
