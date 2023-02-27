@@ -138,7 +138,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dt>Slack/Email &#128232;</dt>
 <dd>The more permanent the message format, the longer its potential usefulness.</dd>
 <dt>Documentation &#128196;</dt>
-<dd>Requires a strong culture to be maintained and expanded.</dd>
+<dd>Requires a strong culture to constatly maintain and expand the documentation.</dd>
 </dl>
 
 # How to do it well
