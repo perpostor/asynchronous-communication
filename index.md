@@ -49,15 +49,15 @@ sequenceDiagram
 
 # Benefits of asynchronous communication
 
-[//]: # (Most of what I'll say here is taken from GitLab's guide to asynchronous communication in GitLab's open employee handbook. It is the best guide I have seen for asynchronous communication, both in terms of depth and breadth of the topic. I have referenced it in the References section below.)
+<!--Most of what I'll say here is taken from GitLab's guide to asynchronous communication in GitLab's open employee handbook. It is the best guide I have seen for asynchronous communication, both in terms of depth and breadth of the topic. I have referenced it in the References section below. -->
 
 ## 1. Autonomy, empowerment, and agency
 
 > All-remote settings empower team members to live and work where they're most fulfilled. Team members are given agency to move projects forward on a schedule that suits them.
 
-[//]: # (If someone is traveling to a new time zone each month, or chooses to spend a beautiful afternoon with family, that's their prerogative. To further optimize this approach, consider adding a "no ask, must tell" time off policy, which means team members do not need to ask permission to step away from work. )
+<!--If someone is traveling to a new time zone each month, or chooses to spend a beautiful afternoon with family, that's their prerogative. To further optimize this approach, consider adding a "no ask, must tell" time off policy, which means team members do not need to ask permission to step away from work.  -->
 
-[//]: # (Increasingly, operating asynchronously is necessary even in colocated companies which have team members on various floors or offices, especially when multiple time zones are involved. )
+<!--Increasingly, operating asynchronously is necessary even in colocated companies which have team members on various floors or offices, especially when multiple time zones are involved.  -->
 
 ## 2. Increased efficiency and productivity
 
@@ -67,72 +67,60 @@ sequenceDiagram
 ## 3. Inclusivity
 Differences in time zones or working patterns are reduced or can be completely eliminated. **It's harder to "not be in the room" when "the room" doesn't exist.**
 
-[//]: # (One of the biggest benefits of asynchronous work is that it completely removes the hurdle of time zones.)
+<!--One of the biggest benefits of asynchronous work is that it completely removes the hurdle of time zones. -->
 
-[//]: # (Business happens around the clock, in all time zones, in perpetuity. Attempting to shoehorn communications into a single time zone's predefined set of hours is dysfunctional.)
+<!--Business happens around the clock, in all time zones, in perpetuity. Attempting to shoehorn communications into a single time zone's predefined set of hours is dysfunctional. -->
 
 ## 4. Less stress = better mental health
 > A tremendous amount of stress comes with expectations to be online, available, and responsive during set working hours. Worse, our hyper-connected society has allowed this notion to seep into every hour of the day, destroying boundaries between work and self.
 
-[//]: # (An asynchronous mindset enables everyone to take a step back and assume that whatever we're doing is done with no one else online. It removes the burden of an endless string of messages you must respond to immediately. We all have a little more breathing room to do deep work that requires long periods of uninterrupted time.)
+<!--An asynchronous mindset enables everyone to take a step back and assume that whatever we're doing is done with no one else online. It removes the burden of an endless string of messages you must respond to immediately. We all have a little more breathing room to do deep work that requires long periods of uninterrupted time. -->
 
 ## 5. Thoughtfulness and intentionality are encouraged
-[//]: # (Here are some quotes from Sahil Lavingia, founder/CEO at.)
+<!--Here are some quotes from Sahil Lavingia, founder/CEO at. -->
 
 > All communication is thoughtful. Because nothing is urgent (unless the site is down), comments are made after mindful processing and never in real-time. There's no drama.
 
 > Because everyone is always effectively "blocked," everyone plans ahead. It also means anyone can disappear for an hour, a day, or a week and not feel like they are holding the company back. 
 
 ## 6. The knowledge gap is reduced or eliminated
-[//]: # (Low context culture)
+<!--Low context culture  -->
 
 > Team members forecast what questions may be asked about a communique and add in as much context as possible in its delivery. 
 By assuming that the recipient is asleep, or perhaps doesn't even work at the company yet, this added context removes ambiguity and decreases the likelihood of misinterpretation.
 
-[//]: # (This may feel inefficient, as crafting a message may take longer to compose and edit. However, the long-term benefits are remarkable. Decisions are documented over years, making them easier to be discovered and referenced. New people are enabled to self-learn. )
+<!--This may feel inefficient, as crafting a message may take longer to compose and edit. However, the long-term benefits are remarkable. Decisions are documented over years, making them easier to be discovered and referenced. New people are enabled to self-learn.  -->
 
-[//]: # (Synchronous organizations often make decisions in a series of meetings, documenting little to nothing along the way, such that those who come into the process mid-stream are constantly wasting cycles on fact-finding missions. Plus, those hired after a significant decision is made cannot understand the context of something that was changed before their arrival, creating cavernous knowledge gaps that eat away at a company's efficiency.)
+<!--Synchronous organizations often make decisions in a series of meetings, documenting little to nothing along the way, such that those who come into the process mid-stream are constantly wasting cycles on fact-finding missions. Plus, those hired after a significant decision is made cannot understand the context of something that was changed before their arrival, creating cavernous knowledge gaps that eat away at a company's efficiency. -->
 
 # Write things down!
 
-[//]: # (A theme has run through all of the benefits I listed above - writing things down. There are 3 key takeaways I want people to get out of this presentation. The first one is: write things down!)
+<!--A theme has run through all of the benefits I listed above - writing things down. There are 3 key takeaways I want people to get out of this presentation. The first one is: write things down! -->
 
 The term "asynchronous communication" is just a fancy way of saying "allow for flexibility, and most importantly - write things down".
 
 * * *
 
-[//]: # (In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down.)
+<!--In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down.)
 
 <dl>
 <dt>Writing things down makes the implicit explicit </dt>
 <dd>Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.</dd>
-<dt>It is a great unblocker</dt>
-<dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, knowledge is transparent and owned by everyone</dd>
-<dt>Your future self will thank you &#128591;</dt>
-<dd>We forget things all the time - look up, don't relearn!</dd>
-<dt>It is a way to scale a (remote) organisation</dt>
-<dd>Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd>
-</dl>
-
-## Writing things down makes the implicit explicit
-* Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.
-
 <!-- If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on!  -->
 
-## It is a great unblocker
-* Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, **knowledge is transparent and owned by everyone**.
+<dt>It is a great unblocker</dt>
+<dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, knowledge is transparent and owned by everyone</dd>
 
-## Your future self will thank you
+<dt>Your future self will thank you &#128591;</dt>
+<dd>We forget things all the time - look up, don't relearn!</dd>
 <!-- We tend to overestimaate the length of time information will stay in our heads. In reality, we forget things all the time.  -->
 
-* We forget things all the time - **look up, don't relearn**!
-
-## It is a way to scale a (remote) organisation
-* Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.
-
+<dt>It is a way to scale a (remote) organisation</dt>
+<dd>Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd>
 <!-- When a company is small, information tends to be distributed orally and a lot of it is in the heads of individual people. As a  company scales, and there is an explosion of new teams and new domains to be explored, a lot of knowledge gets lost. -->
 
 <!-- A culture of writing things down can help with this. As companies scale, people will come and go. By utilizing asynchronous communication, an organization is able to retain knowledge throughout these natural cycles. -->
+</dl>
 
 # Examples
 
@@ -162,15 +150,8 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 * https://about.gitlab.com/company/culture/all-remote/asynchronous/
 * https://shopify.engineering/asynchronous-communication-shopify-engineering 
 
-Potential themes if done in GH:
-* https://github.com/pages-themes/time-machine
-* https://github.com/jekyll/minima
-* https://pages-themes.github.io/leap-day/
-* https://pages-themes.github.io/cayman/
-* https://github.com/pages-themes/architect 
-
-[//]: # (
+<!--
 Asynchronous communication is a culture change. 
 
 From Shopify: "Yet, multiple mediums of communication incur many choices in how to use them effectively. When you have the option to communicate via chat, email, collaborative document or GitHub issue, picking the right one can become overwhelming and frustrating. Therefore we encourage our teams to establish their preferred norms and to write them down."
-)
+ -->
