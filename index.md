@@ -109,7 +109,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dt>Your future self will thank you</dt>
 <dd>We forget things all the time - <b>look up, don't relearn</b>!</dd></dt>
 <dt>It is a way to scale a (remote) organisation</dt>
-<dd>eeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd></dt>
+<dd>Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd></dt>
 </dl>
 
 ## Writing things down makes the implicit explicit
