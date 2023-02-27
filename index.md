@@ -104,19 +104,19 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <!--In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down. -->
 
 <dl>
-<dt>Writing things down makes the implicit explicit </dt>
+<dt>Writing things down makes the implicit explicit &#128221;</dt>
 <dd>Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brought out in the open.</dd>
 <!-- If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on!  -->
 
-<dt>It is a great unblocker</dt>
+<dt>It is a great unblocker &#128275;</dt>
 <dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, knowledge is transparent and owned by everyone.</dd>
 
 <dt>Your future self will thank you &#128591;</dt>
 <dd>We forget things all the time - look up, don't relearn!</dd>
 <!-- We tend to overestimaate the length of time information will stay in our heads. In reality, we forget things all the time.  -->
 
-<dt>It is a way to scale a (remote) organisation</dt>
-<dd>Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd>
+<dt>It is a way to scale a (remote) organisation &#128200;</dt>
+<dd>Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing things down can make or break the effort to scale a company.</dd>
 <!-- When a company is small, information tends to be distributed orally and a lot of it is in the heads of individual people. As a  company scales, and there is an explosion of new teams and new domains to be explored, a lot of knowledge gets lost. -->
 
 <!-- A culture of writing things down can help with this. As companies scale, people will come and go. By utilizing asynchronous communication, an organization is able to retain knowledge throughout these natural cycles. -->
@@ -125,19 +125,19 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 # Examples
 
 <dl>
-<dt>Setting an agenda for meetings</dt>
+<dt>Setting an agenda for meetings &#9989;</dt>
 <dd>What are we all meeting for? Setting an agenda is useful to set expectations and to ensure a relevant outcome is achieved.</dd>
-<dt>Capturing meeting outcomes</dt>
+<dt>Capturing meeting outcomes &#9997;</dt>
 <dd>What did we decide? What are the actions identified this meeting? If we don't write these down - what was the point of the meeting?</dd>
-<dt>Code Reviews</dt>
+<dt>Code Reviews &#128064;</dt>
 <dd>Mostly relevant to the tech folk, but it's a form of asynchronous communication we do every day!</dd>
-<dt>Collaborating on a Google Doc</dt>
+<dt>Collaborating on a Google Doc &#129309;</dt>
 <dd>Asynchronous collaboration at its finest!</dd>
-<dt>Recording meetings</dt>
+<dt>Recording meetings &#128249;</dt>
 <dd>Not without its flaws, but it does help ensure knowledge is shared more equitably.</dd>
-<dt>Slack/Email</dt>
+<dt>Slack/Email &#128232;</dt>
 <dd>The more permanent the message format, the longer its potential usefulness.</dd>
-<dt>Documentation</dt>
+<dt>Documentation &#128196;</dt>
 <dd>Requires a strong culture to be maintained and expanded.</dd>
 </dl>
 
