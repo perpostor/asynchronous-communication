@@ -99,6 +99,8 @@ By assuming that the recipient is asleep, or perhaps doesn't even work at the co
 
 The term "asynchronous communication" is just a fancy way of saying "allow for flexibility, and most importantly - write things down".
 
+* * *
+
 [//]: # (In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down.)
 
 <dl>
