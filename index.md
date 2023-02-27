@@ -101,6 +101,17 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 
 [//]: # (In a lazy rehashing of the benefits above, let me geek out a bit when it comes to writing things down.)
 
+<dl>
+<dt>Writing things down makes the implicit explicit</dt>
+<dd>Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.</b></dd></dt>
+<dt>It is a great unblocker</dt>
+<dd>Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, <b>knowledge is transparent and owned by everyone</b></dd></dt>
+<dt>Your future self will thank you</dt>
+<dd>We forget things all the time - <b>look up, don't relearn</b>!</dd></dt>
+<dt>It is a way to scale a (remote) organisation</dt>
+<dd>eeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.</dd></dt>
+</dl>
+
 ## Writing things down makes the implicit explicit
 * Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.
 
