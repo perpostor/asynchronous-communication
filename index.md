@@ -62,7 +62,7 @@ sequenceDiagram
 ## 2. Increased efficiency and productivity
 
 > "There are many times when work isn’t ready for us to tackle, tasks aren’t planned, decision makers aren’t online, etc. In these times, successful teams execute, even if they later have to refactor and adapt, they don’t waste time “waiting”.
-'Always default to action' is a mantra we keep on repeating at [Remote](https://remote.com/)."
+> 'Always default to action' is a mantra we keep on repeating at [Remote](https://remote.com/)."
 
 ## 3. Inclusivity
 Differences in time zones or working patterns are reduced or can be completely eliminated. **It's harder to "not be in the room" when "the room" doesn't exist.**
