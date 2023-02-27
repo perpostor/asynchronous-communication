@@ -1,6 +1,8 @@
 # What is asynchronous communication?
 
-Simply put, asynchronous communication is **communiation which doesn't happen in real time.**
+Simply put, asynchronous communication is **communication which doesn't happen in real time.**
+
+<script src="https://gist.github.com/perpostor/3764c64f16f3637f2ffa10093db24ec0.js"></script>
 
 ```mermaid
 sequenceDiagram
