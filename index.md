@@ -71,9 +71,6 @@ Differences in time zones or working patterns are reduced or can be completely e
 
 [//]: # (Business happens around the clock, in all time zones, in perpetuity. Attempting to shoehorn communications into a single time zone's predefined set of hours is dysfunctional.)
 
-[//]: # (It robs people of their autonomy and flexibility (requiring folk to be always on at the same time prevents them from prioritising work and non-work priorities according to their own best interest) People and teams can spend a lot of time being blocked while waiting for a key person or a team. People across timezones can be excluded from important meetings of not be in the room when important decisions are made. Documentation suffers - a lot of times decisions are not captured in a written form or processes are not documented because it is assumed that the knowledge stays with those present in a meeting. 
-)
-
 ## 4. Less stress = better mental health
 > A tremendous amount of stress comes with expectations to be online, available, and responsive during set working hours. Worse, our hyper-connected society has allowed this notion to seep into every hour of the day, destroying boundaries between work and self.
 
@@ -107,7 +104,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 ## Writing things down makes the implicit explicit
 * Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.
 
-[//]: # (If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on!)
+[//]: # (If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on! )
 
 ## It is a great unblocker
 * Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, **knowledge is transparent and owned by everyone**.
