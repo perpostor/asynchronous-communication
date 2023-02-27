@@ -23,7 +23,7 @@ sequenceDiagram
     Alice->>Bob: Appreciate it, Bob!
 ```
 
-This is very simplistic!
+This is very simplistic! Let's look at asynchronous communication in perspective.
 
 ![img](https://cdn.shopify.com/s/files/1/0779/4361/files/Ayschnronous_Communication_James_Stanier.png?format=webp&v=1652986250)
 Credit: [Shopify](https://shopify.engineering/asynchronous-communication-shopify-engineering)
