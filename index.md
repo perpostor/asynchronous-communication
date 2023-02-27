@@ -115,22 +115,22 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 ## Writing things down makes the implicit explicit
 * Instead of information living in the heads of different people, with varying degrees of consisteny between what each person thinks, it is brough out in to the open.
 
-[//]: # (If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on! )
+<!-- If what you write down is the truth and it is agreed by all parties - great, you've got documentation now for future reference. If it is wrong - even better - you found out earlier and can address any concerns ahead of time. Tanya Reilly, a Senior Principal Engineer from Squarespace says that "being wrong is better than being ambiguous" - and she is spot on!  -->
 
 ## It is a great unblocker
 * Instead of a few key people keeping information in their heads and blocking everyone who needs access to it, **knowledge is transparent and owned by everyone**.
 
 ## Your future self will thank you
-[//]: # (We tend to overestimaate the length of time information will stay in our heads. In reality, we forget things all the time. )
+<!-- We tend to overestimaate the length of time information will stay in our heads. In reality, we forget things all the time.  -->
 
 * We forget things all the time - **look up, don't relearn**!
 
 ## It is a way to scale a (remote) organisation
 * Keeping a lineage of why decisions were made, how processes work and fostering a culture of writing thigs down can make or break the effort to scale a company.
 
-[//]: # (When a company is small, information tends to be distributed orally and a lot of it is in the heads of individual people. As a  company scales, and there is an explosion of new teams and new domains to be explored, a lot of knowledge gets lost.)
+<!-- When a company is small, information tends to be distributed orally and a lot of it is in the heads of individual people. As a  company scales, and there is an explosion of new teams and new domains to be explored, a lot of knowledge gets lost. -->
 
-[//]: # (A culture of writing things down can help with this. As companies scale, people will come and go. By utilizing asynchronous communication, an organization is able to retain knowledge throughout these natural cycles.)
+<!-- A culture of writing things down can help with this. As companies scale, people will come and go. By utilizing asynchronous communication, an organization is able to retain knowledge throughout these natural cycles. -->
 
 # Examples
 
