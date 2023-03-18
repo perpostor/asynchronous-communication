@@ -178,9 +178,9 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dd>If you've bought into the asynchronous communication mindset, make sure that it's engrained in your ways of working so new joiners just "get" that this is how things work around here.</dd>
 <dt>Set clear expectations for appropriate situations to use asynv vs sync &#9878;</dt>
 <dd>Adoption of asynchronous communication is a scale. Some companies are working entirely synchronously, and other are working entirely asynchronously, essentially with no face-to-face time. The more synchronous you are, the less you need to be explicit about where asynchronous communication fits. The more asynchronous you are, the more explicit you need to be.</dd>
-<dt>Have guidelines for which tools are used when &#128203;</dt>
+<dt>Have guidelines for which tools are used when 🔧</dt>
 <dd>For example, do you use Google Docs for collaboration, but capture decisions in Confluence?</dd>
-<dt>Accept that it will always be an iterative process of improvement &#128260;</dt>
+<dt>Accept that it will always be an iterative process of improvement 🔄</dt>
 <dd>Communiating asynchronously doesn't come naturally to most of us, but that doesn't mean that it isn't worth investing in. Hypothesize, experiment, adopt what works, and repeat.</dd>
 </dl>
 
