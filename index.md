@@ -176,6 +176,7 @@ Schedules and calendars have conditioned us to operate in synchronicity — when
 -->
 
 # When not to use it
+<dt>If it hinders your communication 🔇</dt>
 
 # References
 * https://mermaid.js.org/syntax/sequenceDiagram.html#styling
