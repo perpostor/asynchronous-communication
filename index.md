@@ -175,10 +175,9 @@ Schedules and calendars have conditioned us to operate in synchronicity — when
 
 
 # References
-* https://mermaid.js.org/syntax/sequenceDiagram.html#styling
-* https://about.gitlab.com/company/culture/all-remote/asynchronous/
-* https://shopify.engineering/asynchronous-communication-shopify-engineering 
-* https://graphemica.com/%E2%9C%85 - Emoji references
+* [GitLab - How to embrace asynchronous communication for remote work](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
+* [Shopify - Asynchronous Communication is the Great Leveler in Engineering](https://shopify.engineering/asynchronous-communication-shopify-engineering)
+* [Remote.com - 4 essential elements of a sustainable remote work culture](https://remote.com/blog/elements-sustainable-remote-work-culture)
 
 <!--
 Asynchronous communication is a culture change. 
