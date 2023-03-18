@@ -181,7 +181,16 @@ Schedules and calendars have conditioned us to operate in synchronicity — when
 -->
 
 # When not to use it
+<dl>
 <dt>If it hinders your communication 🔇</dt>
+<dd>If you've gone back and forth a few times with no resolution or outcome - maybe just get on a call?</dd>
+<dt>If it just doesn't fit. ❌ </dt>
+<dd>A small team or organisation in a single timezone wouldn't benefit from embracing async 100%.</dd>
+<dt>If you're talking to someone external 📞</dt>
+<dd>Most people won't be used to your ways of working. It's your job to adjust to their work and ommunication preferences.</dd>
+<dt>If the value just isn't there 👎 </dt>
+<dd>You gave it an honest try and you found yourself wasting time. Oh well. Reflect on the experience, and move on.</dd>
+</dl>
 
 # References
 * https://mermaid.js.org/syntax/sequenceDiagram.html#styling
