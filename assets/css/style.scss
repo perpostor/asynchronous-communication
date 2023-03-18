@@ -6,7 +6,7 @@ aside#sidebar {
 }
 
 #main-content {
-    width: auto;
+    width: auto !important;
 }
 
 @import "{{ site.theme }}";
