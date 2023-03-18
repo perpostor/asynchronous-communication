@@ -2,26 +2,10 @@
 
 Simply put, asynchronous communication is **communication which doesn't happen in real time.**
 
-```mermaid
-sequenceDiagram
-    actor Alice
-    actor Bob
-    Alice->>Bob: Hi, Bob, could you explain to me <some-process>?
-    Bob->>Alice: Hi, Alice, sure, <explanation>
-    Alice->>Bob: Appreciate it, Bob!
-```
+![img](assets/img/synchronous_alice_bob.png)
 
-```mermaid
-sequenceDiagram
-    actor Alice
-    actor Bob
-    Alice->>Bob: Hi, Bob, could you explain to me <some-process>?
-    Note over Alice, Bob: An hour passes.
-    Note over Alice, Bob: An hour passes.
-    Bob->>Alice:  Hi, Alice, sure, <explanation>
-    Note over Alice, Bob: An hour passes.
-    Alice->>Bob: Appreciate it, Bob!
-```
+
+![img](assets/img/asynchronous_simple_alice_bob.png)
 
 This is very simplistic! Let's look at asynchronous communication in perspective.
 
@@ -31,21 +15,8 @@ Credit: [Shopify](https://shopify.engineering/asynchronous-communication-shopify
 An alternative [definition](https://remote.com/blog/elements-sustainable-remote-work-culture):
 > Asynchronous work is a simple concept: Do as much as you can with what you have, document everything, transfer ownership of the project to the next person, then start working on something else.
 
-```mermaid
-sequenceDiagram
-    actor Alice
-    participant Documentation
-    actor Bob
-    
-    Bob->>Documentation: Documents <some-process>.
-    Note over Alice, Bob: Some time passes.
-    Note over Alice: "What was <some-process> for <something>?"
-    
-    Alice->>Documentation: Reads the documentation.
-    
-    Note over Alice: "Huh, this is not right!"
-    Alice->>Documentation: Updates the documentation.
-```
+
+![img](assets/img/asynchronous_docs_alice_bob.png)
 
 # Benefits of asynchronous communication
 
