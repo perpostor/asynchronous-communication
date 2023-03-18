@@ -26,6 +26,8 @@ An alternative [definition](https://remote.com/blog/elements-sustainable-remote-
 
 > All-remote settings empower team members to live and work where they're most fulfilled. Team members are given agency to move projects forward on a schedule that suits them.
 
+<!-- Being a remote organisation offers amazing guarantees when it comes to flexibility - for example, flexibility to choose where to work from. Hoewver, it doesn't guarantee flexibility when it comes to the time you should be working. If everything happens synchronously, and you need to be online during specific times, you're not free to work on your terms - to fully schedule your work around your life, instead of the other way around. -->
+
 <!--If someone is traveling to a new time zone each month, or chooses to spend a beautiful afternoon with family, that's their prerogative. To further optimize this approach, consider adding a "no ask, must tell" time off policy, which means team members do not need to ask permission to step away from work.  -->
 
 <!--Increasingly, operating asynchronously is necessary even in colocated companies which have team members on various floors or offices, especially when multiple time zones are involved.  -->
