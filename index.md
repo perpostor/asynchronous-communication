@@ -134,11 +134,11 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dt>Collaborating on a Google Doc &#129309;</dt>
 <dd>Asynchronous collaboration at its finest!</dd>
 <dt>Recording meetings &#128249;</dt>
-<dd>Not without its flaws, but it does help ensure knowledge is shared more equitably.</dd>
+<dd>Not without its flaws, but it does help ensure knowledge is shared more equitably and allows people to consume it according to their own schedule.</dd>
 <dt>Slack/Email &#128232;</dt>
-<dd>The more permanent the message format, the longer its potential usefulness.</dd>
+<dd>Great for collaborating rapidly (Slak), but with different message durability expetations. The more permanent the message format (email), the longer its potential usefulness.</dd>
 <dt>Documentation &#128196;</dt>
-<dd>Requires a strong culture to constatly maintain and expand the documentation.</dd>
+<dd>Requires a strong culture to constatly maintain and expand. However, investment pays off immensely in the future.</dd>
 </dl>
 
 # How to do it well
