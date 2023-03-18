@@ -169,6 +169,8 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dd></dd>
 </dl>
 
+--> 
+
 ## At an organisational level
 <!-- All of the above applies at the org level as well, but, generally speaking, the effort at this stage is different.-->
 <dl>
