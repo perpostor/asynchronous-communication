@@ -147,9 +147,17 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 
 <!-- The Gitlab handbook has a lengthy section for asynchronous workers and covers things like creating a mental space, sharing your communication preferences, being transparent with your capacity, etc. This is all really good and I encourage folk to go read it, but the way I look at things is this - what can I do that will give me most of the benefits with the least amount of effort? To me, it boils down the questions here, which are somewhat glossed over in the GitLab guide. If you make these questions core to how you think about communication, you will be 80% there with pretty much 20% of the effort. -->
 
+* Am I using the best format (written, verbal, video…) for this message?
+* Does the person receiving this message have all the context they need?
+* Am I communicating clearly so that there will be no confusion?
+* Am I considering the tone of my language and how this message will be received?
+* Am I providing any needed resources or next steps, so that the conversation or project can move forward?
+* Is this communication being documented in a way that it can be found later for future reference?
+
+<!-- 
 <dl>
 <dt>Am I using the best format (written, verbal, video…) for this message?</dt>
-<dd></dd>
+<dd>sdfsd</dd>
 <dt>Does the person receiving this message have all the context they need?</dt>
 <dd></dd>
 <dt>Am I communicating clearly so that there will be no confusion?</dt>
