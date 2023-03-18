@@ -143,12 +143,45 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 
 # How to do it well
 
+## At a personal level
+
+<!-- The Gitlab handbook has a lengthy section for asynchronous workers and covers things like creating a mental space, sharing your communication preferences, being transparent with your capacity, etc. This is all really good and I encourage folk to go read it, but the way I look at things is this - what can I do that will give me most of the benefits with the least amount of effort? To me, it boils down the questions here, which are somewhat glossed over in the GitLab guide. If you make these questions core to how you think about communication, you will be 80% there with pretty much 20% of the effort. -->
+
+<dl>
+<dt>Am I using the best format (written, verbal, video…) for this message?</dt>
+<dt>Does the person receiving this message have all the context they need?</dt>
+<dt>Am I communicating clearly so that there will be no confusion?</dt>
+<dd>Am I considering the tone of my language and how this message will be received?</dd>
+<dt>Am I providing any needed resources or next steps, so that the conversation or project can move forward?</dt>
+<dd>Is this communication being documented in a way that it can be found later for future reference?</dd>
+</dl>
+
+## At an organisational level
+<!-- All of the above applies at the org level as well, but, generally speaking, the effort at this stage is different.-->
+<dl>
+<dt>Make it part of the culture</dt>
+<dd>If you've bought into the asynchronous communication mindset, make sure that it's engrained in your ways of working so new joiners just "get" that this is how things work around here.</dd>
+<dt>Set clear expectations for appropriate situations to use asynv vs sync &#9878;</dt>
+<dd>Adoption of asynchronous communication is a scale. Some companies are working entirely synchronously, and other are working entirely asynchronously, essentially with no face-to-face time. The more synchronous you are, the less you need to be explicit about where asynchronous communication fits. The more asynchronous you are, the more explicit you need to be.</dd>
+<dt>Have guidelines for which tools are used when &#128203;</dt>
+<dd>For example, do you use Google Docs for collaboration, but capture decisions in Confluence?</dd>
+<dt>Accept that it will always be an iterative process of improvement< &#128260;/dt>
+<dd>Communiating asynchronously doesn't come naturally to most of us, but that doesn't mean that it isn't worth investing in. Hypothesize, experiment, adopt what works, and repeat.</dd>
+</dl>
+
+<!--
+
+Schedules and calendars have conditioned us to operate in synchronicity — when two or more parties are in the same place (either physically or virtually) at the same time.>
+
+-->
+
 # When not to use it
 
 # References
 * https://mermaid.js.org/syntax/sequenceDiagram.html#styling
 * https://about.gitlab.com/company/culture/all-remote/asynchronous/
 * https://shopify.engineering/asynchronous-communication-shopify-engineering 
+* https://graphemica.com/%E2%9C%85 - Emoji references
 
 <!--
 Asynchronous communication is a culture change. 
