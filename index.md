@@ -109,7 +109,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dt>Recording meetings &#128249;</dt>
 <dd>Not without its flaws, but it does help ensure knowledge is shared more equitably and allows people to consume it according to their own schedule.</dd>
 <dt>Slack/Email &#128232;</dt>
-<dd>Great for collaborating rapidly (Slak), but with different message durability expetations. The more permanent the message format (email), the longer its potential usefulness.</dd>
+<dd>Great for collaborating rapidly (Slack), but with different message durability expetations. The more permanent the message format (email), the longer its potential usefulness.</dd>
 <dt>Documentation &#128196;</dt>
 <dd>Requires a strong culture to constatly maintain and expand. However, investment pays off immensely in the future.</dd>
 </dl>
@@ -149,7 +149,7 @@ The term "asynchronous communication" is just a fancy way of saying "allow for f
 <dl>
 <dt>Make it part of the culture 🌱</dt>
 <dd>If you've bought into the asynchronous communication mindset, make sure that it's engrained in your ways of working so new joiners just "get" that this is how things work around here.</dd>
-<dt>Set clear expectations for appropriate situations to use asynv vs sync &#9878;</dt>
+<dt>Set clear expectations for appropriate situations to use async vs sync &#9878;</dt>
 <dd>Adoption of asynchronous communication is a scale. Some companies are working entirely synchronously, and other are working entirely asynchronously, essentially with no face-to-face time. The more synchronous you are, the less you need to be explicit about where asynchronous communication fits. The more asynchronous you are, the more explicit you need to be.</dd>
 <dt>Have guidelines for which tools are used when 🔧</dt>
 <dd>For example, do you use Google Docs for collaboration, but capture decisions in Confluence?</dd>
